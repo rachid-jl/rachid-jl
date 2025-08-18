@@ -187,10 +187,9 @@ const generateReadmeContent = async () => {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2)](https://www.linkedin.com/in/rachid-jlassi-245559149/)
-[![Email](https://img.shields.io/badge/-rachid.jlassi2@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=FF4757)](mailto:rachid.jlassi2@gmail.com)
-[![Phone](https://img.shields.io/badge/-+33749620214-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=4ECDC4&color=26de81)](tel:+33749620214)
-[![Location](https://img.shields.io/badge/-Paris,_France-A8E6CF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=A8E6CF&color=00b894)](https://maps.google.com/?q=Paris,France)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachid-jlassi-245559149/)
+[![Email](https://img.shields.io/badge/-rachid.jlassi2@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachid.jlassi2@gmail.com)
+[![Location](https://img.shields.io/badge/-Paris,_France-A8E6CF?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Paris,France)
 
 </div>
 
@@ -423,7 +422,7 @@ Tech: ${repo.language || 'Web Technologies'} | ⭐ ${repo.stargazers_count || 0}
 
 **Open to discussing DevOps, Platform Engineering, SRE, and Cloud Architecture opportunities**
 
-[![Email Me](https://img.shields.io/badge/-Email_Me_About_Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachid@example.com)
+[![Email Me](https://img.shields.io/badge/-Email_Me_About_Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachid.jlassi2@gmail.com)
 [![Schedule Call](https://img.shields.io/badge/-Schedule_a_Call-00C851?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/rachid-jl)
 
 </div>
@@ -508,7 +507,7 @@ jobs:
       
     - name: 💾 Commit and push changes
       run: |
-        git config --local user.email "rachid.devops@gmail.com"
+        git config --local user.email "rachid.jlassi2@gmail.com"
         git config --local user.name "Rachid Jl - DevOps Engineer"
         git add README.md
         if git diff --staged --quiet; then

@@ -33,7 +33,7 @@ jobs:
       
     - name: 💾 Commit and push changes
       run: |
-        git config --local user.email "rachid.devops@gmail.com"
+        git config --local user.email "rachid.jlassi2@gmail.com"
         git config --local user.name "Rachid Jl - DevOps Engineer"
         git add README.md
         if git diff --staged --quiet; then
