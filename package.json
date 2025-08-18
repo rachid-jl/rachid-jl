@@ -1,0 +1,24 @@
+{
+  "name": "rachid-jl",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "<!-- **rachid-jl/rachid-jl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "update-profile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachid-jl/rachid-jl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachid-jl/rachid-jl/issues"
+  },
+  "homepage": "https://github.com/rachid-jl/rachid-jl#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
