@@ -1,4 +1,4 @@
-name: 🚀 Update Rachid's Profile README
+name: 🚀 Update Rachid's Enhanced Profile
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   workflow_dispatch: # Manual trigger
   push:
     branches: [ main ]
+    paths: [ 'update-profile.js' ]
 
 jobs:
   update-readme:
@@ -25,19 +26,20 @@ jobs:
         npm init -y
         npm install node-fetch
         
-    - name: 🚀 Update README
+    - name: 🎨 Update Enhanced README
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: node update-profile.js
       
     - name: 💾 Commit and push changes
       run: |
-        git config --local user.email "rachid@example.com"
-        git config --local user.name "Rachid Jl"
+        git config --local user.email "rachid.devops@gmail.com"
+        git config --local user.name "Rachid Jl - DevOps Engineer"
         git add README.md
         if git diff --staged --quiet; then
-          echo "No changes to commit"
+          echo "✅ No changes to commit"
         else
-          git commit -m "🤖 Auto-update profile README - $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "🤖 Auto-update enhanced profile README - $(date +'%Y-%m-%d %H:%M')"
           git push
+          echo "🚀 Profile updated successfully!"
         fi
