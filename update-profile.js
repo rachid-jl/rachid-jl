@@ -177,7 +177,7 @@ const generateReadmeContent = async () => {
 
 # 👋 Salut! I'm Rachid Jl
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=140&lines=Senior+DevOps+Engineer;SysOps+Expert;DevSecOps+Practitioner;9%2B+Years+of+Experience;RHCE+%2F+RHCSA+Certified;Open+to+New+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=140&lines=Senior+DevOps+Engineer;SysOps+Expert;DevSecOps+Practitioner;8%2B+Years+of+Experience;RHCE+%2F+RHCSA+Certified;Open+to+New+Opportunities!" alt="Typing SVG" />
 
 ## 🚀 Infrastructure Automation Specialist | Paris, France
 
