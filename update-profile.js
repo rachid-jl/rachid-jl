@@ -177,20 +177,18 @@ const generateReadmeContent = async () => {
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" /> Salut! I'm Rachid Jl
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=800&color=FF6B6B,4ECDC4,FFD93D,A8E6CF,FF7675,74B9FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=170&lines=🚀+Senior+DevOps+Engineer;⚙️+SysOps+Expert;🛡️+DevSecOps+Practitioner;🎯+9%2B+Years+of+Experience;🏆+RHCE+%2F+RHCSA+Certified;✨+Available+for+New+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=FF6B6B,4ECDC4,FFD93D,A8E6CF,FF7675,74B9FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=170&lines=🚀+Senior+DevOps+Engineer;⚙️+SysOps+Expert;🛡️+DevSecOps+Practitioner;🎯+9%2B+Years+of+Experience;🏆+RHCE+%2F+RHCSA+Certified;✨+Available+for+New+Opportunities!" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=1500&pause=600&color=4ECDC4,FFD93D,FF6B6B&background=0D111700&center=true&vCenter=true&width=900&height=70&lines=🐳+Docker+%26+Kubernetes+Expert;☁️+AWS+%26+Azure+Specialist;🔧+Terraform+%26+Ansible+Master" alt="Skills Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=4ECDC4,FFD93D,FF6B6B&background=0D111700&center=true&vCenter=true&width=900&height=70&lines=🐳+Docker+%26+Kubernetes+Expert;☁️+AWS+%26+Azure+Specialist;🔧+Terraform+%26+Ansible+Master" alt="Skills Typing" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="35" /> Infrastructure Automation Specialist | Paris, France
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&duration=1800&pause=500&color=A8E6CF,FF7675,74B9FF&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=💼+Ready+to+Transform+Your+Infrastructure;🚀+Let's+Build+Something+Amazing+Together!;📧+Open+for+DevOps+Opportunities" alt="Call to Action" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&duration=2800&pause=700&color=A8E6CF,FF7675,74B9FF&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=💼+Ready+to+Transform+Your+Infrastructure;🚀+Let's+Build+Something+Amazing+Together!;📧+Open+for+DevOps+Opportunities" alt="Call to Action" />
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2&animation=pulse)](https://linkedin.com/in/rachid-jl)
-[![Email](https://img.shields.io/badge/-Available_for_Opportunities-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=FF4757)](mailto:rachid@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2)](https://www.linkedin.com/in/rachid-jlassi-245559149/)
+[![Email](https://img.shields.io/badge/-rachid.jlassi2@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=FF4757)](mailto:rachid.jlassi2@gmail.com)
 [![Phone](https://img.shields.io/badge/-+33749620214-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=4ECDC4&color=26de81)](tel:+33749620214)
 [![Location](https://img.shields.io/badge/-Paris,_France-A8E6CF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=A8E6CF&color=00b894)](https://maps.google.com/?q=Paris,France)
 
